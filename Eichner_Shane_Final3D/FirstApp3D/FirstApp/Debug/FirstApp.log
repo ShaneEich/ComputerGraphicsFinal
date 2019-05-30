@@ -1,0 +1,53 @@
+﻿  Example3D.cpp
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\angel.h(64): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\mat.h(743): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(33): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(38): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(43): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(50): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(51): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(52): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(56): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(57): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(58): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(60): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(62): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(65): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(66): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(67): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(68): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(116): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(147): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(380): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(383): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(855): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(870): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(885): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(957): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(960): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(963): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(966): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\shaneeichner\documents\graphics\firstapp3d\firstapp\example3d.cpp(996): warning C4244: 'argument': conversion from 'GLdouble' to 'const GLfloat', possible loss of data
+  FirstApp.vcxproj -> C:\Users\ShaneEichner\Documents\Graphics\FirstApp3D\Debug\FirstApp3D.exe
